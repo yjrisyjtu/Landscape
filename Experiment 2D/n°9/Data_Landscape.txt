@@ -1,0 +1,20 @@
+
+=== Analyse for HOMO ===
+Correlation length : 6.00
+Increasing step : 48.3%, Neutral : 0.3%, Decreasing : 51.3%
+Mean Δfitness: 0.3342
+
+=== Analyse for LUMO ===
+Correlation length : 6.00
+Increasing step : 51.0%, Neutral : 0.7%, Decreasing : 48.3%
+Mean Δfitness: 0.2133
+
+=== Analyse for GAP ===
+Correlation length : 5.00
+Increasing step : 49.3%, Neutral : 0.0%, Decreasing : 50.7%
+Mean Δfitness: 0.3227
+
+=== RÉSUMÉ GLOBAL ===
+HOMO: Lc=6.00, Δmoy=0.3342
+LUMO: Lc=6.00, Δmoy=0.2133
+GAP: Lc=5.00, Δmoy=0.3227

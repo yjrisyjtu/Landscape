@@ -1,0 +1,20 @@
+======================================================================
+AVERAGE AUTOCORRELATION ANALYSIS
+Correlation length formula: Lc = -1/ln(C(1))
+======================================================================
+
+Number of experiments analyzed: 10
+Autocorrelation length computed: 49 lags
+
+
+=== HOMO ===
+Average correlation length Lc = -1/ln(C(1)): 1.97 ± 0.45
+Average Δfitness: 0.3593 ± 0.0228
+
+=== LUMO ===
+Average correlation length Lc = -1/ln(C(1)): 2.81 ± 0.36
+Average Δfitness: 0.2032 ± 0.0080
+
+=== GAP ===
+Average correlation length Lc = -1/ln(C(1)): 0.94 ± 0.25
+Average Δfitness: 0.3349 ± 0.0161
